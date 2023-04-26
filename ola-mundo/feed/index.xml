@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Olá, mundo!	</title>
-	<atom:link href="/ola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>/ola-mundo/</link>
+	<atom:link href="https://lemersom.github.io/teste-wp-ingles/ola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lemersom.github.io/teste-wp-ingles/ola-mundo/</link>
 	<description>English for Coders</description>
 	<lastBuildDate>Sat, 22 Apr 2023 00:08:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Um comentarista do WordPress		</title>
-		<link>/ola-mundo/#comment-1</link>
+		<link>https://lemersom.github.io/teste-wp-ingles/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Sat, 22 Apr 2023 00:08:45 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://lemersom.github.io/teste-wp-ingles/?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
